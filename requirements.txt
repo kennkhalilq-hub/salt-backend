@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pyjwt
-httpx
-pydantic
-python-multipart
